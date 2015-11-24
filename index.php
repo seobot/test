@@ -4,7 +4,7 @@ echo "<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">
-<title>Open Server its WORK!</title>
+<title>Open Server its WORK! NOW!</title>
 </head>
 <body style=\"background: url(fon.png) top left repeat-x\">
 <center>
